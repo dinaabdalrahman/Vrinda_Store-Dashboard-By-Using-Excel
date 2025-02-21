@@ -69,7 +69,7 @@ are Amazon Myntra and Flipkart).
 ### 13) Top 10 Ship State By Amount (Column Chart) 
  - #### Insights : 
    - ##### ( Top 10 states by sales revenue are MAHARASHTRA KARNATAKA , UTTAR PRADESH, TELANGANA,
-          TAMILNADU,DELHI, KERALA, ANDHRA PRADDESH ,WEST BENGAL, HARYANA ).
+       TAMILNADU,DELHI, KERALA, ANDHRA PRADDESH ,WEST BENGAL, HARYANA ).
 
 ### 14) Top 5 Ship city With Each Channel By Amount(Column Chart)  
  - #### Insights : 
