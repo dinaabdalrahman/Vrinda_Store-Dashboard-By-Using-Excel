@@ -108,7 +108,7 @@ are Amazon Myntra and Flipkart).
  ##### If you want to ask me any question or you can write a feedback, reach out via [linkedin](https://www.linkedin.com/in/dina-abdelrahman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or (dinaabdalrahman7@gmail.com)
 
 ## Screenshot
-##### Here’s a screenshot of the HR Analytics Dashboard:
+##### Here’s a screenshot of the Vrinda Store Dashboard:
 
 
 ![overview](https://github.com/user-attachments/assets/db321031-832c-48fe-82eb-2138d19d34a3)
