@@ -6,12 +6,12 @@ The dashboard provides insights into Category, Age Group, Gender, Date, Ship Cit
 
 ## Charts and Their Purpose 
 
- ### 1)  The Top 10 Ship Cites (Column Chart) 
+ ### 1) The Top 10 Ship Cites (Column Chart) 
  - #### Insights : 
    - ##### ( Top 10 cities had high sales and the highest city among them was BENGALURU and the other
       ( HYDERABAD, NEW DELHI, CHENNAI, MUMBAI, PUNE , KOLKATA, LUCKNOW, GURUGRAM, NOIDA ).
 
-### 2)  Number of Category for each month (Line Chart) 
+### 2) Number of Category for each month (Line Chart) 
  - #### Insights : 
    - ##### (The drawing shows that the number of categories was large in March (2819) and
      then a gradual decrease in the number was calculated ).
@@ -36,18 +36,18 @@ The dashboard provides insights into Category, Age Group, Gender, Date, Ship Cit
    - ##### ( Women are the largest number in sales, but during the first few months sales
      were good, then they started to decrease during the second months).
 
-### 7) Number of orders For Each Age Group and Channel s (Column Chart) 
+### 7) Number of orders For Each Age Group and Channel (Column Chart) 
  - #### Insights : 
    - ##### ( The top 3 selling sites for adult, senior and teenager 
 are Amazon Myntra and Flipkart).
    
-### 8)Total Amount for Each Age Group (Doughnut Chart) 
+### 8) Total Amount for Each Age Group (Doughnut Chart) 
 
  - #### Insights : 
    - ##### ( The adult and teen categories are the largest categories in terms of sales, followed by seniors,
         but in months when sales are high, such as January, they decrease and increase).
    
-### 9) Ordering Category By Amount 
+### 9) Ordering Category By Amount (Column Chart) 
 
  - #### Insights : 
    - ##### ( The AJ Set product is the best-selling product and sales were increasing until September,
@@ -57,7 +57,7 @@ are Amazon Myntra and Flipkart).
  - #### Insights : 
    - ##### ( Amazon is the most used site throughout the year and the best seller).
    
-### 11) Total Amount For Each Size (Column Chart) 
+### 11) Total Amount For Each Size ( Bar Chart) 
  - #### Insights : 
    - ##### ( March is the highest in total quantities throughout the months of the year. ).
    
