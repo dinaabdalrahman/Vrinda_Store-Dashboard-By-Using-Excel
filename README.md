@@ -1,7 +1,7 @@
 # Vrinda Store Dashboard
 ## overview
-#### Varinda Store Dashboard designed in Excel to analyze and visualize data over months in 2022. 
-The dashboard provides insights into Category, Age Group, Gender, Date, Ship City, Size, Status.
+#### Varinda Store Dashboard designed in Excel to analyze and visualize data over months in 2022
+  The dashboard provides insights into Category, Age Group, Gender, Date, Ship City, Size, Status.
 
 
 ## Charts and Their Purpose 
